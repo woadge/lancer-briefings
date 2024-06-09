@@ -1,4 +1,4 @@
-<template>
+tor<template>
   <header class="clipped-x-large-forward">
     <div class="title clipped-x-large-forward">
       <img class="logo" src="/icons/company-icon.svg" />
@@ -28,18 +28,18 @@
           <span class="subtitle">{{ header.year }}</span>
         </div>
       </div>
-      <div class="location-row" id="system-gate-ring">
+      <div class="location-row" id="system-sector-galaxy">
         <div id="system">
           <h4>System</h4>
           <span class="subtitle">{{ header.system }}</span>
         </div>
         <div id="sector">
           <h4>Sector</h4>
-          <span class="subtitle">{{ header.gate }}</span>
+          <span class="subtitle">{{ header.sector }}</span>
         </div>
         <div id="galaxy">
           <h4>Galaxy</h4>
-          <span class="subtitle">{{ header.ring }}</span>
+          <span class="subtitle">{{ header.galaxy }}</span>
         </div>
       </div>
     </div>
