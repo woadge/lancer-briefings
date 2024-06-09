@@ -33,12 +33,12 @@
           <h4>System</h4>
           <span class="subtitle">{{ header.system }}</span>
         </div>
-        <div id="gate">
-          <h4>Gate</h4>
+        <div id="sector">
+          <h4>Sector</h4>
           <span class="subtitle">{{ header.gate }}</span>
         </div>
-        <div id="ring">
-          <h4>Ring</h4>
+        <div id="galaxy">
+          <h4>Galaxy</h4>
           <span class="subtitle">{{ header.ring }}</span>
         </div>
       </div>
