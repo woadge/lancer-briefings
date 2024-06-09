@@ -147,7 +147,7 @@ export default {
         "system": "Admedes",
         "sector": "Lambda",
         "galaxy": "Chorus",
-        "headerTitle": "Hellfire Syndicate",
+        "headerTitle": "Hellfire",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Crisis Response",
         "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
